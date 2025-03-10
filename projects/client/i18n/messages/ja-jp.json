@@ -76,7 +76,7 @@
   "trending": "話題の作品",
   "recommendations": "おすすめ",
   "most_anticipated": "最も期待されている作品",
-  "get_vip": "VIPになる",
+  "get": "取得",
   "get_vip_label": "VIP機能をアンロック",
   "user_profile_label": "ユーザー情報",
   "most_popular": "最も人気のある作品",
@@ -323,5 +323,6 @@
   "restore_show_label": "{title}の番組を復元",
   "restore_show": "番組を復元",
   "mark_as_watched_show_warning": "{title}を視聴済みにしますか？これにより、全エピソードが視聴済みにマークされます。",
-  "mark_as_watched_multiple_episodes_warning": "{count}エピソードを視聴済みにしますか？"
+  "mark_as_watched_multiple_episodes_warning": "{count}エピソードを視聴済みにしますか？",
+  "get_vip": "VIPになる"
 }

@@ -76,7 +76,7 @@
   "trending": "Angesagt",
   "recommendations": "Empfehlungen",
   "most_anticipated": "Am meisten erwartet",
-  "get_vip": "VIP erhalten",
+  "get": "Holen",
   "get_vip_label": "VIP-Funktionen freischalten",
   "user_profile_label": "Profil",
   "most_popular": "Meist beliebt",
@@ -323,5 +323,6 @@
   "restore_show_label": "Serie {title} wiederherstellen",
   "restore_show": "Serie wiederherstellen",
   "mark_as_watched_show_warning": "Bist du sicher, dass du {title} als gesehen markieren möchtest? Dadurch werden alle Folgen als gesehen markiert.",
-  "mark_as_watched_multiple_episodes_warning": "Bist du sicher, dass du {count} Episoden als gesehen markieren möchtest?"
+  "mark_as_watched_multiple_episodes_warning": "Bist du sicher, dass du {count} Episoden als gesehen markieren möchtest?",
+  "get_vip": "VIP erhalten"
 }

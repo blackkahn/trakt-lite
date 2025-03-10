@@ -76,7 +76,7 @@
   "trending": "Teraz popularne",
   "recommendations": "Rekomendacje",
   "most_anticipated": "Najbardziej wyczekiwane",
-  "get_vip": "Zdobądź VIP",
+  "get": "Zdobądź",
   "get_vip_label": "Odblokuj funkcje VIP",
   "user_profile_label": "Profil użytkownika",
   "most_popular": "Najpopularniejsze",
@@ -323,5 +323,6 @@
   "restore_show_label": "Przywróć {title}",
   "restore_show": "Przywróć",
   "mark_as_watched_show_warning": "Na pewno chcesz oznaczyć {title} jako obejrzane? Spowoduje to oznaczenie wszystkich odcinków.",
-  "mark_as_watched_multiple_episodes_warning": "Na pewno chcesz oznaczyć {count} odcinków jako obejrzane?"
+  "mark_as_watched_multiple_episodes_warning": "Na pewno chcesz oznaczyć {count} odcinków jako obejrzane?",
+  "get_vip": "Zdobądź VIP"
 }

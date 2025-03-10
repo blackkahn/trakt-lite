@@ -76,7 +76,7 @@
   "trending": "Trending",
   "recommendations": "Aanbevelingen",
   "most_anticipated": "Meest verwacht",
-  "get_vip": "Word VIP",
+  "get": "Word",
   "get_vip_label": "Ontgrendel VIP-functies",
   "user_profile_label": "Gebruikersprofiel",
   "most_popular": "Meest populair",
@@ -323,5 +323,6 @@
   "restore_show_label": "Herstel serie {title}",
   "restore_show": "Serie herstellen",
   "mark_as_watched_show_warning": "Weet je zeker dat je {title} als bekeken wilt markeren? Dit markeert alle afleveringen als bekeken.",
-  "mark_as_watched_multiple_episodes_warning": "Weet je zeker dat je {count} afleveringen als bekeken wilt markeren?"
+  "mark_as_watched_multiple_episodes_warning": "Weet je zeker dat je {count} afleveringen als bekeken wilt markeren?",
+  "get_vip": "Word VIP"
 }

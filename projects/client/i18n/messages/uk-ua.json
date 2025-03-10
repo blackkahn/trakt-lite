@@ -76,7 +76,7 @@
   "trending": "Тренди",
   "recommendations": "Рекомендації",
   "most_anticipated": "Найбільш очікувані",
-  "get_vip": "Отримати VIP",
+  "get": "Отримати",
   "get_vip_label": "Відкрийте VIP-функції",
   "user_profile_label": "Профіль користувача",
   "most_popular": "Найпопулярніші",
@@ -323,5 +323,6 @@
   "restore_show_label": "Відновити медіа-контент {title}",
   "restore_show": "Відновити",
   "mark_as_watched_show_warning": "Впевнені, що хочете відмітити {title} як переглянуте? Це відмітить всі серії.",
-  "mark_as_watched_multiple_episodes_warning": "Впевнені, що хочете відмітити {count} серій як переглянуті?"
+  "mark_as_watched_multiple_episodes_warning": "Впевнені, що хочете відмітити {count} серій як переглянуті?",
+  "get_vip": "Отримати VIP"
 }

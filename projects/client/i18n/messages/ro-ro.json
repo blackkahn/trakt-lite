@@ -76,7 +76,7 @@
   "trending": "Trending",
   "recommendations": "Recomandări",
   "most_anticipated": "Cele mai așteptate",
-  "get_vip": "Obține VIP",
+  "get": "Obține",
   "get_vip_label": "Deblochează caracteristici VIP",
   "user_profile_label": "Profil de utilizator",
   "most_popular": "Cele mai populare",
@@ -323,5 +323,6 @@
   "restore_show_label": "Restaurare {title}",
   "restore_show": "Restaurare",
   "mark_as_watched_show_warning": "Sigur vrei să marchezi {title} ca vizionat? Asta va marca toate episoadele ca vizionate.",
-  "mark_as_watched_multiple_episodes_warning": "Sigur vrei să marchezi {count} episoade ca vizionate?"
+  "mark_as_watched_multiple_episodes_warning": "Sigur vrei să marchezi {count} episoade ca vizionate?",
+  "get_vip": "Obține VIP"
 }
